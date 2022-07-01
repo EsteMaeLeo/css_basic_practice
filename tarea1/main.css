@@ -16,10 +16,6 @@ code{
     color:rgb(31, 150, 110);
 }
 
-li{
-    font-family: inherit;
-}
-
 li + li {
     background-color: rgb(56, 54, 54);
     color: rgb(222, 234, 245);
