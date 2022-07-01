@@ -1,0 +1,31 @@
+body{
+    font-family: sans-serif;
+}
+
+#assignment-instructions{
+    color: rgb(111, 156, 214);
+    font-family: sans-serif;
+}
+
+code{
+    font-family: monospace;
+    color: rgb(236, 69, 69);
+}
+
+.second-code{
+    color:rgb(31, 150, 110);
+}
+
+li{
+    font-family: inherit;
+}
+
+li + li {
+    background-color: rgb(56, 54, 54);
+    color: rgb(222, 234, 245);
+} 
+
+ol li {
+    background-color: rgb(56, 54, 54);
+    color: rgb(222, 234, 245);
+} 
